@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://byu0jkb02yatg"
+path="res://.godot/imported/20 - The Final Match.mp3-53e1af2a85b0b787dd50b1d72895aa18.mp3str"
+
+[deps]
+
+source_file="res://src/audio/music/20 - The Final Match.mp3"
+dest_files=["res://.godot/imported/20 - The Final Match.mp3-53e1af2a85b0b787dd50b1d72895aa18.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

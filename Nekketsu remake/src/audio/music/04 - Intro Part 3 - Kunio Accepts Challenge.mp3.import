@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://celu5x8jgqqn1"
+path="res://.godot/imported/04 - Intro Part 3 - Kunio Accepts Challenge.mp3-81ce2cbc86aaffc0752938d3bbde510d.mp3str"
+
+[deps]
+
+source_file="res://src/audio/music/04 - Intro Part 3 - Kunio Accepts Challenge.mp3"
+dest_files=["res://.godot/imported/04 - Intro Part 3 - Kunio Accepts Challenge.mp3-81ce2cbc86aaffc0752938d3bbde510d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

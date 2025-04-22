@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cgrr47ugke62"
+path="res://.godot/imported/09 - Arena 2.mp3-1013504463cd2c666bd2ee4c638bcc89.mp3str"
+
+[deps]
+
+source_file="res://src/audio/music/09 - Arena 2.mp3"
+dest_files=["res://.godot/imported/09 - Arena 2.mp3-1013504463cd2c666bd2ee4c638bcc89.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
