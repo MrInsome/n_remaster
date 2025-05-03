@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bfnonqu5yp72d"
+path="res://.godot/imported/17 - The Locker Room (Victory).mp3-0b4d265398f584ad505543bdbea7fc30.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/music/17 - The Locker Room (Victory).mp3"
+dest_files=["res://.godot/imported/17 - The Locker Room (Victory).mp3-0b4d265398f584ad505543bdbea7fc30.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

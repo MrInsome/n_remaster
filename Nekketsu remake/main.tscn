@@ -1,9 +1,20 @@
-[gd_scene format=3 uid="uid://dtsqba6ytlyy8"]
+[gd_scene load_steps=6 format=3 uid="uid://dtsqba6ytlyy8"]
+
+[ext_resource type="Script" uid="uid://bv58qvi36nofa" path="res://main.gd" id="1_0xm2m"]
+[ext_resource type="Script" uid="uid://bwq1umg7g3sfb" path="res://src/scripts/managers/GameManager.gd" id="1_ig7tw"]
+[ext_resource type="PackedScene" uid="uid://cdk4rpglx6lus" path="res://src/scenes/arena/Arena.tscn" id="3_h2yge"]
+[ext_resource type="PackedScene" uid="uid://bdwep74nfqbdt" path="res://src/scenes/transitions/FadeLayer.tscn" id="4_lquwl"]
+[ext_resource type="Script" uid="uid://daop6nmgxbtjy" path="res://src/scripts/managers/scene_handler.gd" id="5_7mycd"]
 
 [node name="Main" type="Node2D"]
+script = ExtResource("1_0xm2m")
 
 [node name="GameManager" type="Node" parent="."]
-
-[node name="SceneHandler" type="Node" parent="."]
+script = ExtResource("1_ig7tw")
 
 [node name="AudioManager" type="Node" parent="."]
+
+[node name="SceneHandler" parent="." instance=ExtResource("4_lquwl")]
+script = ExtResource("5_7mycd")
+
+[node name="Arena" parent="." instance=ExtResource("3_h2yge")]

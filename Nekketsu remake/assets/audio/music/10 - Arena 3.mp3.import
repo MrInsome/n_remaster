@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b31qesagl8h4p"
+path="res://.godot/imported/10 - Arena 3.mp3-a33e03edc9ca55c93c934a313fd0aeea.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/music/10 - Arena 3.mp3"
+dest_files=["res://.godot/imported/10 - Arena 3.mp3-a33e03edc9ca55c93c934a313fd0aeea.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

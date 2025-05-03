@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://layuajpq4aki"
+path="res://.godot/imported/22 - Ending Credits.mp3-f8993da25e3ef4d2fbc81cde65eabff6.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/music/22 - Ending Credits.mp3"
+dest_files=["res://.godot/imported/22 - Ending Credits.mp3-f8993da25e3ef4d2fbc81cde65eabff6.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

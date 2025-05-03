@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b36gcd688xlvi"
+path="res://.godot/imported/02 - Intro Part 1 - Nekketsu High School.mp3-a9744a429cbded22ffbd29e1e0e738f4.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/music/02 - Intro Part 1 - Nekketsu High School.mp3"
+dest_files=["res://.godot/imported/02 - Intro Part 1 - Nekketsu High School.mp3-a9744a429cbded22ffbd29e1e0e738f4.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dodq442llvtr0"
+path="res://.godot/imported/13 - Arena 6.mp3-5d3cea4e9cc354fa03ec9083ab5a2e4e.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/music/13 - Arena 6.mp3"
+dest_files=["res://.godot/imported/13 - Arena 6.mp3-5d3cea4e9cc354fa03ec9083ab5a2e4e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
